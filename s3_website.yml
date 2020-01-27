@@ -5,7 +5,6 @@ s3_id: AKIA3HPQO53BYT7TCWHB
 s3_secret: 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
 s3_bucket: iansawscourse.com
 cloudfront_distribution_id: E1F1KAZGAJ6KTL
-site: s3/iansawscourse.com
 
 # set session_token if using temporary credentials with a session token (eg: when assuming a role)
 # session_token: YOUR_AWS_S3_SESSION_TOKEN
